@@ -1,0 +1,10 @@
+.media/
+*.pyc
+terraform/node_modules
+.terraform
+terraform/dist
+firebase.json
+.env.json
+config.*.json
+op_account
+op_env.json
